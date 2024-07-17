@@ -133,7 +133,6 @@
 @media screen and (min-width: 1024px) and (max-width: 1280px)  {
 
   .container{
-    max-width: 1024px;
     /* border: 2px solid red; */
   } 
   
@@ -209,7 +208,7 @@
 
   
   .container{
-    max-width: 1280px;
+
     /* border: 2px solid rgb(255, 217, 0); */
 
   } 
@@ -274,7 +273,7 @@
 
   
   .container{
-    max-width: 1536px;
+
     /* border: 2px solid lime; */
   } 
 
