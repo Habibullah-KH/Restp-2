@@ -66,7 +66,7 @@
 @media screen and (min-width: 768px) and (max-width: 1024px) {
 
   .container{
-    border: 1px solid rgb(162, 0, 255);
+    /* border: 1px solid rgb(162, 0, 255); */
   }
 
   .hero_area .nav_area ul{
