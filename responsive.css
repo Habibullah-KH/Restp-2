@@ -9,10 +9,11 @@
 /** xs */
 @media screen and (min-width: 300px) and (max-width: 640px) {
   
+/*  
   .container{
-    /* border: 1px solid red; */
+     border: 1px solid red; 
   } 
-
+*/
   .hero_area .nav_area ul{
     
     display: none;
