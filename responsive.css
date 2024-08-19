@@ -50,17 +50,7 @@
       font-size: 1.2rem;
       
     }
-    
-      .hero_area .hero_section .text_container button{
-      
-        padding: 1rem;
-        margin-top: 1rem;
-        font-size: 1.3rem;
-        border-radius: 0.5rem;
-        border: none;
-        background-color: rgb(224, 44, 109);
-        color: white;
-      }
+
 }
 
 /** md */
@@ -99,17 +89,7 @@
         font-size: 1.5rem;
         
       }
-      
-        .hero_area .hero_section .text_container button{
-        
-          padding: 1rem;
-          margin-top: 1rem;
-          font-size: 1.3rem;
-          border-radius: 0.5rem;
-          border: none;
-          background-color: rgb(224, 44, 109);
-          color: white;
-        }
+
   
 
 .hero_area .img_container{
@@ -190,17 +170,7 @@
       margin-bottom: 0.5rem;
       
     }
-    
-      .hero_area .hero_section .text_container button{
-      
-        padding: 1.5rem;
-        margin-top: 1rem;
-        font-size: 1.5rem;
-        border-radius: 0.5rem;
-        border: none;
-        background-color: rgb(224, 44, 109);
-        color: white;
-      }
+
 
 }
 

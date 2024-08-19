@@ -88,7 +88,7 @@ body{
         padding: 1rem;
         margin-top: 1rem;
         font-size: 1rem;
-        border-radius: 0.5rem;
+        border-radius: 5rem;
         border: none;
         background-color: rgb(224, 44, 109);
         color: white;
@@ -98,3 +98,8 @@ body{
       
         padding-left: 0.5rem;
       }
+
+.hero_section .logo_area img{
+
+width: 100%;
+}
